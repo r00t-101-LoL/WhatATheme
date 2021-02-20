@@ -18,7 +18,8 @@ site-keywords: Site, Template, Theme
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://res.cloudinary.com/need-medicinals-me/image/upload/b_rgb:060000,bo_100px_solid_rgb:000,co_rgb:000000,dpr_auto,e_sharpen:2000,f_auto,g_center,z_0.1/v1613688495/golden.png
+heroimage: https://github.com/r00t-101-LoL/WhatATheme/blob/master/assets/images/golden.webp
+# https://res.cloudinary.com/need-medicinals-me/image/upload/b_rgb:060000,bo_100px_solid_rgb:000,co_rgb:000000,dpr_auto,e_sharpen:2000,f_auto,g_center,z_0.1/v1613688495/golden.png
 # https://res.cloudinary.com/need-medicinals-me/image/upload/b_rgb:060000,co_rgb:000000,dpr_auto,e_sharpen:100,f_auto,z_0.1/v1613688495/golden.png 
 # https://res.cloudinary.com/need-medicinals-me/image/upload/b_rgb:060000,co_rgb:000000,dpr_auto,e_sharpen:100,f_auto,z_0.1/v1613688495/golden.png
 # https://res.cloudinary.com/need-medicinals-me/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1613688495/golden.png 
